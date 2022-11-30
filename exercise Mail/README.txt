@@ -4,5 +4,5 @@ Chiedi all’utente la sua email, controlla che sia nella lista di chi può acce
 1- Chiedere l'email
 2- Confronto con la lista delle email autorizzate ad accedere
 3- Stampa messaggio
-3.1 IF- Può accedere
-3.2 ELSE- Non può accedere
+3.1 IF Corrisponde, allora può accedere
+3.2 ELSE Non può accedere
